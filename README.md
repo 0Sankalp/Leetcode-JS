@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/0Sankalp/Leetcode-JS/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/0Sankalp/Leetcode-JS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
