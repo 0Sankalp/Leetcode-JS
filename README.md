@@ -7,6 +7,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/0Sankalp/Leetcode-JS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/0Sankalp/Leetcode-JS/tree/master/1390-four-divisors) |
 | [1929-concatenation-of-array](https://github.com/0Sankalp/Leetcode-JS/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/0Sankalp/Leetcode-JS/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/0Sankalp/Leetcode-JS/tree/master/1390-four-divisors) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/0Sankalp/Leetcode-JS/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/0Sankalp/Leetcode-JS/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
